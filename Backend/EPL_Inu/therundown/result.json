@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "event_id": "4ec15fd0da54a3016099c1d9e7866ab7",
+            "event_date": 1666530000,
+            "event_status": "STATUS_SCHEDULED",
+            "score_home": 0,
+            "score_away": 0,
+            "home_name": "Leicester",
+            "away_name": "Wolves",
+            "point_spread_home": -0.5,
+            "total_over": "2.5"
+        },
+        {
+            "event_id": "62ea7c2e71cfa37175bed63191ad818a",
+            "event_date": 1666530000,
+            "event_status": "STATUS_SCHEDULED",
+            "score_home": 0,
+            "score_away": 0,
+            "home_name": "Brentford",
+            "away_name": "Aston Villa",
+            "point_spread_home": -0.5,
+            "total_over": "2.5"
+        },
+        {
+            "event_id": "87fad385f479affd024a92cc43bc601e",
+            "event_date": 1666530000,
+            "event_status": "STATUS_SCHEDULED",
+            "score_home": 0,
+            "score_away": 0,
+            "home_name": "Arsenal",
+            "away_name": "Southampton",
+            "point_spread_home": 1.5,
+            "total_over": 2.5
+        },
+        {
+            "event_id": "916c374c75ae6f943b5901b22f4ee5fe",
+            "event_date": 1666530000,
+            "event_status": "STATUS_SCHEDULED",
+            "score_home": 0,
+            "score_away": 0,
+            "home_name": "Fulham",
+            "away_name": "Leeds",
+            "point_spread_home": -0.5,
+            "total_over": 2.5
+        },
+        {
+            "event_id": "61891d2edb01f0a75c193ab8b95d2b7f",
+            "event_date": 1666539000,
+            "event_status": "STATUS_SCHEDULED",
+            "score_home": 0,
+            "score_away": 0,
+            "home_name": "Newcastle",
+            "away_name": "Tottenham",
+            "point_spread_home": "-0.5",
+            "total_over": 2.5
+        }
+    ]
+}
